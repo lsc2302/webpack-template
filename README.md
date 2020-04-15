@@ -28,3 +28,6 @@ npx webpack
 ```shell
 npx webpack-dev-server
 ```
+<div>
+<img src="snap/snap.png" height="400" width="800">
+</div>
